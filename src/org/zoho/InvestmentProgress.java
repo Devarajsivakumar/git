@@ -4,11 +4,11 @@ public class InvestmentProgress {
 
 	public static void main(String[] args) {
 	
-		int a = new int
-				
+		int a = new int 20;
+		
+		
 				
 	
-		
 
 	}
 
